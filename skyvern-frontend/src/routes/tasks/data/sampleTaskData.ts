@@ -1,3 +1,11 @@
+/*
+VIVENTIUM START
+Derived from Skyvern-AI/skyvern and modified by Project Viventium on 2026-04-13.
+Changes: replaced upstream sample personal/test data with synthetic non-personal values for public redistribution.
+Licensed under AGPL-3.0; see the repository root LICENSE.
+VIVENTIUM END
+*/
+
 import { CreateNewTaskFormValues } from "../create/taskFormTypes";
 import { SampleCase } from "../types";
 
